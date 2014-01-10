@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+ruby:
+  title:         Programing Ruby 1.9 
+  description: 
+    Ruby is a lot of fun to learn. I cant wait to make my first app! It is going to be great. 
+  price:         49.50 
+  image_url:     ruby.png   
+ 
